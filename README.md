@@ -6,6 +6,8 @@ Check  out our [paper](https://arxiv.org/abs/2508.05004) or [webpage](https://ch
 
 ## 🔥 Updates
 
+- [2025-10-25] Accepted by Neurips Math-AI workshop. See you in San Diego!
+
 - [2025-8-27] We’ve added analysis on iteration scaling and one model taking on two roles.
 
 - [2025-8-25] Update codes to make training more smooth (by stopit).
