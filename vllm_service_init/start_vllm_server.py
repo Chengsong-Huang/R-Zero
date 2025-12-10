@@ -219,7 +219,7 @@ def hello():
         return {
             'question': question,
             'answer':   majority_ans,
-            'score':    score if majority_ans == golden_answer and score > 0.1 else 0,
+            'score':    score,
             'results':  results
         }
 
